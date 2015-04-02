@@ -1,0 +1,1 @@
+We will develop an framework which can do pattern recognition work.In the preliminary stage, we will focus on image process, character recognition and basic theory.
